@@ -8,7 +8,7 @@ Using the dataset of IMDB movie reviews labeled by positivity from 1 to 10, the 
 
 Create and activate environment:
 ```
-conda env create -f ~/tfhub/sentiment.yml
+conda env create -f ~/tfhub/sentiment.yaml
 conda activate sentiment
 ```
 
